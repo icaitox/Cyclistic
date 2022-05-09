@@ -1,6 +1,6 @@
 ## Cyclistic
-![Logo](https://www.google.com/search?q=cyclistic+logo+capstone+project+google&tbm=isch&ved=2ahUKEwitlJuKj9P3AhVQeTABHfX6C6UQ2-cCegQIABAA#imgrc=83POcWxLUK8A5M)
-#Google Data Analytics Capstone Project
+![Logo](https://drive.google.com/file/d/1nmR5lKfR-Fg8L8K9kW7Vc17TW8d1aa6S/view?usp=sharing)
+# Google Data Analytics Capstone Project
 
 The following repository shows the way I onboarded the project I choose in order to get Google's Professional Certificate:**Cyclistic**. The data analyzed was made available by Motivate International under this [license](https://ride.divvybikes.com/data-license-agreement).
 
