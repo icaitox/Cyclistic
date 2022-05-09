@@ -1,8 +1,10 @@
 # Cyclistic
+
 <p align="center">
-![Logo](https://user-images.githubusercontent.com/101368227/167482358-d603fd79-de81-4668-92c5-b5a04a3ee53f.JPG)
+  <img src="https://user-images.githubusercontent.com/101368227/167482358-d603fd79-de81-4668-92c5-b5a04a3ee53f.JPG">
 </p>
-## Google Data Analytics Capstone Project
+
+## Google Data Analytics Capstone Project :bookmark_tabs:
 
 The following repository shows the way I onboarded the project I choose in order to get Google's Professional Certificate:**Cyclistic**. The data analyzed was made available by Motivate International under this [license](https://ride.divvybikes.com/data-license-agreement).
 
