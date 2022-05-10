@@ -26,4 +26,14 @@ After cleaning, data was chronologically organized and the analyzing stage start
 By understanding these facts, the company will be in a better position to suggest marketing proposals.
 
 ## Share :innocent:
-At the analyzie stage, I found a couple of interesthing facts which suggest that casual riders tend to take longer rides (27 minutes in average) and mostly on the weekends, while members are more likely to take shorter trips (13.5 minutes) during weekdays, what might indicate this last group has integrated our service to their routine. Having this in mind (and the other facts I discovered), I decided to write an article on Medium sharing all the information recollected here and explained by using visualizations that help make my point.
+At the analyzie stage, I found a couple of interesthing facts which suggest that casual riders tend to take longer rides (27 minutes in average) and mostly on the weekends, while members are more likely to take shorter trips (13.5 minutes) during weekdays, what might indicate this last group has integrated our service to their routine. Having this in mind (and the other facts I discovered), I decided to write an article on [Medium](https://medium.com/@ricardo020796/google-data-analytics-capstone-project-cyclistic-bike-share-analysis-ba2df0681689) sharing all the information recollected here and explained by using visualizations that help make my point.
+
+## Act :sunglasses:
+Based on my analysis, I gave some proposals in order to attain the objective of the company, which are the following:
+1. As most of the rental stations at Loop, Magnificent Mile and Near North Side are hot spots for our business, we, as company, have to focus ourselves in giving the best renting experience at these places. Hiring someone to act as renting assistant is suggested at these locations, in order to solve renting associated problems and guarantee the good shape of the bikes.
+
+2. In order to transform casual riders into members, special promotions should be held during the arrival of Summer, when a rental-pump in this type of users was depicted.
+
+3. By expanding our network of stations to parks/squares/popular public cities and sponsoring weekend outdoor events (where our clients should special benefits), we could increase the chances of casual riders paying the membership.
+
+The next steps to determine whether the decisions the company will take fulfilled its objectives or not would be to study the data a few months from today.
