@@ -16,6 +16,6 @@ Previous to the analysing step, it is important to clean the data. As most of th
 - tripnday: this function receives a dataFrame and adds the columns 'trip_length' (duration of the trip), 'week_day' (which day the bike was rented), and 'time_frame' (defines at which period of the day the trip started). 
 - clean: this function receives a dataFrame and returns another dataframe which only contains trip lengths greater than 90 seconds but less than 1 day. It was established as it was considered that all rentals that took less than the minimum were "misrentals" (customer regrets about the rental) and those with a length of more than a day were considered "pollution", as target audience would not rent a bike for more than a day.
 
-As monthly CSV were available at the download repository, another function was defined: **concatData**, which receives a list of dataframes and returns them all concatenated as an unique dataframe.
+As monthly CSV were available at the download repository, another function was defined: **concatData**, which receives a list of dataframes and returns them all concatenated as an unique dataframe. All of the empty values were at start or end station ID, and since this data was not taken into consideration for plotting -latitude and longitude were utilized for geolocating-, no further processing was needed.
 
 ## Analyze :microscope:
